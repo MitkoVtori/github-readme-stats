@@ -48,7 +48,7 @@ export const themes = {
     text_color: "427b58",
     bg_color: "fbf1c7",
   },
-  mito: {
+  foreign: {
     title_color: "FF0000",
     icon_color: "000FFF",
     text_color: "FF06BF",
