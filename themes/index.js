@@ -48,11 +48,11 @@ export const themes = {
     text_color: "427b58",
     bg_color: "fbf1c7",
   },
-  f: {
+  c: {
     title_color: "8B00FF",
     icon_color: "8B00FF",
     text_color: "FF06BF",
-    bg_color: "302A2E",
+    bg_color: "151314",
   },
   tokyonight: {
     title_color: "70a5fd",
