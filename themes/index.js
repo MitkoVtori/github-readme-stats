@@ -48,7 +48,7 @@ export const themes = {
     text_color: "427b58",
     bg_color: "fbf1c7",
   },
-  c: {
+  night_knight: {
     title_color: "8B00FF",
     icon_color: "8B00FF",
     text_color: "FF06BF",
