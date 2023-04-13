@@ -49,10 +49,10 @@ export const themes = {
     bg_color: "fbf1c7",
   },
   mito: {
-    title_color: "FF39C3",
-    icon_color: "C200FA",
-    text_color: "FA009F",
-    bg_color: "000000",
+    title_color: "FA6AFF",
+    icon_color: "7706FF",
+    text_color: "FF06BF",
+    bg_color: "463C4D",
   },
   tokyonight: {
     title_color: "70a5fd",
